@@ -27,7 +27,8 @@ docker compose up
 Any contributions are welcomed through GitHub issues or pull requests.
 
 
-Youtube presentation:
+Youtube presentation: https://www.youtube.com/watch?v=RWtQVfRXTjQ
+
 We're developing a GraphRAG system using Diffbot's APIs to construct reliable knowledge graphs, which are then stored in a Neo4j graph database for efficient querying and information retrieval.
 
 0:00 intro
